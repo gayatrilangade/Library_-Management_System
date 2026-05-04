@@ -9,7 +9,7 @@
 -  Maintain relationships using foreign keys
 
 ## Technologies Used
-- SQL (Oracle / MySQL)
+- SQL (Oracle)
 - ER Diagram (dbdiagram.io / draw.io)
 
 
